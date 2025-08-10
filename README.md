@@ -15,3 +15,7 @@ Features
 - Feedback after each guess
 - Input validation
 - Game over message when all attempts are used
+
+Requirements
+- Python 3.x installed
+- Works on Windows, Mac, and Linux
